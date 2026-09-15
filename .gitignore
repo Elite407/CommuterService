@@ -1,0 +1,45 @@
+# === Build Output ===
+target/
+build/
+*.class
+*.jar
+*.war
+
+# === IDE ===
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+.factorypath
+
+# === Environment / Secrets ===
+.env
+*.env
+application-local.yml
+application-secret.yml
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Maven Wrapper ===
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# === Logs ===
+*.log
+logs/
+
+# === Legacy plan files ===
+implementation_plan_00
+implementation_plan_01
+implementation_plan_02
