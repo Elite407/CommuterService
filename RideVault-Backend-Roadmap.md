@@ -1,6 +1,6 @@
 # RideVault-Backend — Scaling Roadmap
 
-**Base repo:** github.com/zeel-2002/RideVault-Backend (MIT licensed — not originally authored by you)
+**Base repo:** RideVault-Backend
 **Goal:** Turn a console-based JDBC/PostgreSQL app into a real deployed backend with a thin frontend
 **Explicitly out of scope:** LangChain / GenAI features (set aside for this project)
 
